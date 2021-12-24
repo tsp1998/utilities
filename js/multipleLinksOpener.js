@@ -1,3 +1,3 @@
-const getLinksOpenerCode = require('./multipleLinksOpenerUtil')
+const getLinksOpenerCode = require('./utils/multipleLinksOpenerUtil')
 
 console.log(getLinksOpenerCode())

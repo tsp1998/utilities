@@ -1,4 +1,4 @@
-const getLinksOpenerCode = require('./multipleLinksOpenerUtil')
+const getLinksOpenerCode = require('./utils/multipleLinksOpenerUtil')
 
 try {
   const prefix = 'https://qualitia.atlassian.net/browse/';
